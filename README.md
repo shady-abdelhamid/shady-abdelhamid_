@@ -1,13 +1,9 @@
-### Hi there 👋
-
-
-
 <p align="center"><img src="https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=790b7611d607baa0200557fc6b1ac48df49c8171d4551556&rid=giphy.gif&ct=g" width="300"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/shady-abdelhamid"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center"><img src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b761187891abca1c8c5ae77714ff3618cece164d7d744&rid=giphy.gif&ct=g" width="600" height="300"  /></p>
 
