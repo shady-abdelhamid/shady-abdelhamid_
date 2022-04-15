@@ -2,7 +2,7 @@
 
 
 
-<p align="center"><img src="https://media4.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47xlxhn5rpgteumtrqs723khzaj97mll4n2gowbm1h&rid=giphy.gif&ct=g" width="300"/></p>
+<p align="center"><img src="https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=790b7611d607baa0200557fc6b1ac48df49c8171d4551556&rid=giphy.gif&ct=g" width="300"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/shady-abdelhamid"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
